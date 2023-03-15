@@ -5,7 +5,7 @@
     let clear = document.querySelector('.btn-clear');
     let equal = document.querySelector('.btn-equal');
 
-    // Calculation logic
+    // Button events
     buttons.forEach((button) => {
         button.addEventListener('click', (e) => {
             let value = e.target.dataset.num;
