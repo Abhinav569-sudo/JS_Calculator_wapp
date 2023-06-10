@@ -7,3 +7,5 @@ A classic calculator web application.
 1. Operations (+, -, *, /);
 2. Chain you results with the additional operations.
 3. Decimal Operations.
+4. Clear Screen ( C )
+5. Calculate ( = )
